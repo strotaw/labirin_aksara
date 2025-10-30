@@ -1,17 +1,102 @@
 [
-    {
-    "soal":"NJAYNAJNJANYJAN",
-    "jawaban":"ANJAY",
-    "pilihan":["NAJYA","ANJAY","JAYNA"]
-    },
-    {
-    "soal":"OBLAOBLAOBLAOBLOLOBALEOAEL",
-    "jawaban":"BLA",
-    "pilihan":["BLA","BLE","BLO"]
-    },
-    {
-    "soal":"NEYENYEYEYNYENYEEYNEYNE",
-    "jawaban":"NEY",
-    "pilihan":["NEY","YEN","EYE"]
-    }
+  {
+    "soal": "Apakah ibu kota dari Indonesia?",
+    "jawaban": "Jakarta",
+    "pilihan": ["Jakarta", "Bandung", "Surabaya", "Medan"]
+  },
+  {
+    "soal": "Apa warna bendera Indonesia?",
+    "jawaban": "Merah Putih",
+    "pilihan": ["Merah Putih", "Biru Putih", "Hijau Putih", "Kuning Putih"]
+  },
+  {
+    "soal": "Berapakah hasil dari 25 + 17?",
+    "jawaban": "42",
+    "pilihan": ["32", "42", "52", "62"]
+  },
+  {
+    "soal": "Hewan yang dapat hidup di darat dan di air disebut...",
+    "jawaban": "Amfibi",
+    "pilihan": ["Mamalia", "Reptil", "Amfibi", "Aves"]
+  },
+  {
+    "soal": "Siapa penulis buku 'Laskar Pelangi'?",
+    "jawaban": "Andrea Hirata",
+    "pilihan": ["Pramoedya Ananta Toer", "Andrea Hirata", "Tere Liye", "Sapardi Djoko Damono"]
+  },
+  {
+    "soal": "Planet terdekat dengan matahari adalah...",
+    "jawaban": "Merkurius",
+    "pilihan": ["Venus", "Bumi", "Mars", "Merkurius"]
+  },
+  {
+    "soal": "Apa lambang sila pertama Pancasila?",
+    "jawaban": "Bintang",
+    "pilihan": ["Padi dan Kapas", "Rantai", "Bintang", "Pohon Beringin"]
+  },
+  {
+    "soal": "Berapa banyak sisi pada bangun datar segitiga?",
+    "jawaban": "3",
+    "pilihan": ["2", "3", "4", "5"]
+  },
+  {
+    "soal": "Apa nama alat pernapasan utama manusia?",
+    "jawaban": "Paru-paru",
+    "pilihan": ["Jantung", "Hati", "Paru-paru", "Lambung"]
+  },
+  {
+    "soal": "Kalimat yang mengandung unsur 5W+1H biasanya merupakan jenis teks...",
+    "jawaban": "Berita",
+    "pilihan": ["Narasi", "Deskripsi", "Berita", "Eksposisi"]
+  },
+  {
+    "soal": "Apa hasil dari 7 × 8?",
+    "jawaban": "56",
+    "pilihan": ["48", "54", "56", "64"]
+  },
+  {
+    "soal": "Benda langit yang memancarkan cahayanya sendiri disebut...",
+    "jawaban": "Bintang",
+    "pilihan": ["Planet", "Komet", "Bintang", "Asteroid"]
+  },
+  {
+    "soal": "Apa ibu kota Provinsi Jawa Barat?",
+    "jawaban": "Bandung",
+    "pilihan": ["Jakarta", "Bandung", "Semarang", "Yogyakarta"]
+  },
+  {
+    "soal": "Kata yang memiliki arti sama disebut...",
+    "jawaban": "Sinonim",
+    "pilihan": ["Antonim", "Homofon", "Sinonim", "Polisemi"]
+  },
+  {
+    "soal": "Siapa tokoh proklamator kemerdekaan Indonesia?",
+    "jawaban": "Soekarno dan Mohammad Hatta",
+    "pilihan": ["Soekarno dan Ki Hajar Dewantara", "Soekarno dan Mohammad Hatta", "Mohammad Hatta dan WR Supratman", "Soeharto dan Soekarno"]
+  },
+  {
+    "soal": "Bagian tumbuhan yang berfungsi menyerap air dan mineral dari tanah adalah...",
+    "jawaban": "Akar",
+    "pilihan": ["Daun", "Batang", "Akar", "Bunga"]
+  },
+  {
+    "soal": "Pecahan 1/2 sama nilainya dengan...",
+    "jawaban": "0,5",
+    "pilihan": ["0,2", "0,25", "0,5", "0,75"]
+  },
+  {
+    "soal": "Hari Pendidikan Nasional diperingati setiap tanggal...",
+    "jawaban": "2 Mei",
+    "pilihan": ["17 Agustus", "1 Juni", "2 Mei", "10 November"]
+  },
+  {
+    "soal": "Alat musik tradisional dari Jawa Barat yang terbuat dari bambu adalah...",
+    "jawaban": "Angklung",
+    "pilihan": ["Gamelan", "Angklung", "Sasando", "Tifa"]
+  },
+  {
+    "soal": "Jumlah provinsi di Indonesia saat ini (2025) adalah...",
+    "jawaban": "38",
+    "pilihan": ["34", "36", "38", "40"]
+  }
 ]
